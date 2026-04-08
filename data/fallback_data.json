@@ -1,0 +1,307 @@
+{
+  "two-sum": {
+    "companies": [
+      {"company": "Amazon", "frequency": "High", "timesAsked": 47, "periods": {"6months": true, "1year": true, "2year": true, "alltime": true}, "lastSeen": "2025", "confidence": 0.9, "source": "fallback"},
+      {"company": "Google", "frequency": "Medium", "timesAsked": 23, "periods": {"6months": true, "1year": true, "2year": true, "alltime": true}, "lastSeen": "2025", "confidence": 0.85, "source": "fallback"},
+      {"company": "Meta", "frequency": "Medium", "timesAsked": 18, "periods": {"1year": true, "2year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.85, "source": "fallback"},
+      {"company": "Microsoft", "frequency": "Medium", "timesAsked": 15, "periods": {"1year": true, "2year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Apple", "frequency": "Low", "timesAsked": 8, "periods": {"2year": true, "alltime": true}, "lastSeen": "2023", "confidence": 0.7, "source": "fallback"},
+      {"company": "Bloomberg", "frequency": "Medium", "timesAsked": 12, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.75, "source": "fallback"},
+      {"company": "Adobe", "frequency": "Low", "timesAsked": 6, "periods": {"alltime": true}, "lastSeen": "2023", "confidence": 0.65, "source": "fallback"},
+      {"company": "Uber", "frequency": "Low", "timesAsked": 5, "periods": {"alltime": true}, "lastSeen": "2023", "confidence": 0.6, "source": "fallback"}
+    ],
+    "isEstimated": false,
+    "lastUpdated": "2025-06-01"
+  },
+  "add-two-numbers": {
+    "companies": [
+      {"company": "Amazon", "frequency": "High", "timesAsked": 35, "periods": {"6months": true, "1year": true, "alltime": true}, "lastSeen": "2025", "confidence": 0.9, "source": "fallback"},
+      {"company": "Microsoft", "frequency": "Medium", "timesAsked": 18, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Bloomberg", "frequency": "Medium", "timesAsked": 12, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.75, "source": "fallback"},
+      {"company": "Google", "frequency": "Low", "timesAsked": 8, "periods": {"alltime": true}, "lastSeen": "2023", "confidence": 0.7, "source": "fallback"}
+    ],
+    "isEstimated": false,
+    "lastUpdated": "2025-06-01"
+  },
+  "longest-substring-without-repeating-characters": {
+    "companies": [
+      {"company": "Amazon", "frequency": "High", "timesAsked": 42, "periods": {"6months": true, "1year": true, "alltime": true}, "lastSeen": "2025", "confidence": 0.9, "source": "fallback"},
+      {"company": "Google", "frequency": "High", "timesAsked": 30, "periods": {"6months": true, "1year": true, "alltime": true}, "lastSeen": "2025", "confidence": 0.9, "source": "fallback"},
+      {"company": "Meta", "frequency": "Medium", "timesAsked": 20, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.85, "source": "fallback"},
+      {"company": "Microsoft", "frequency": "Medium", "timesAsked": 15, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Bloomberg", "frequency": "Low", "timesAsked": 10, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.75, "source": "fallback"}
+    ],
+    "isEstimated": false,
+    "lastUpdated": "2025-06-01"
+  },
+  "median-of-two-sorted-arrays": {
+    "companies": [
+      {"company": "Google", "frequency": "High", "timesAsked": 38, "periods": {"6months": true, "1year": true, "alltime": true}, "lastSeen": "2025", "confidence": 0.9, "source": "fallback"},
+      {"company": "Amazon", "frequency": "Medium", "timesAsked": 20, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.85, "source": "fallback"},
+      {"company": "Microsoft", "frequency": "Medium", "timesAsked": 12, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Meta", "frequency": "Low", "timesAsked": 8, "periods": {"alltime": true}, "lastSeen": "2023", "confidence": 0.7, "source": "fallback"}
+    ],
+    "isEstimated": false,
+    "lastUpdated": "2025-06-01"
+  },
+  "longest-palindromic-substring": {
+    "companies": [
+      {"company": "Amazon", "frequency": "High", "timesAsked": 30, "periods": {"6months": true, "1year": true, "alltime": true}, "lastSeen": "2025", "confidence": 0.9, "source": "fallback"},
+      {"company": "Microsoft", "frequency": "Medium", "timesAsked": 15, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Google", "frequency": "Medium", "timesAsked": 12, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"}
+    ],
+    "isEstimated": false,
+    "lastUpdated": "2025-06-01"
+  },
+  "reverse-integer": {
+    "companies": [
+      {"company": "Amazon", "frequency": "Medium", "timesAsked": 15, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Bloomberg", "frequency": "Medium", "timesAsked": 10, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.75, "source": "fallback"},
+      {"company": "TCS", "frequency": "Medium", "timesAsked": 8, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.7, "source": "fallback"},
+      {"company": "Infosys", "frequency": "Low", "timesAsked": 5, "periods": {"alltime": true}, "lastSeen": "2023", "confidence": 0.6, "source": "fallback"}
+    ],
+    "isEstimated": false,
+    "lastUpdated": "2025-06-01"
+  },
+  "valid-parentheses": {
+    "companies": [
+      {"company": "Amazon", "frequency": "High", "timesAsked": 40, "periods": {"6months": true, "1year": true, "alltime": true}, "lastSeen": "2025", "confidence": 0.9, "source": "fallback"},
+      {"company": "Bloomberg", "frequency": "High", "timesAsked": 35, "periods": {"6months": true, "1year": true, "alltime": true}, "lastSeen": "2025", "confidence": 0.9, "source": "fallback"},
+      {"company": "Meta", "frequency": "Medium", "timesAsked": 18, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.85, "source": "fallback"},
+      {"company": "Google", "frequency": "Medium", "timesAsked": 15, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Microsoft", "frequency": "Low", "timesAsked": 10, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.75, "source": "fallback"}
+    ],
+    "isEstimated": false,
+    "lastUpdated": "2025-06-01"
+  },
+  "merge-two-sorted-lists": {
+    "companies": [
+      {"company": "Amazon", "frequency": "High", "timesAsked": 30, "periods": {"6months": true, "1year": true, "alltime": true}, "lastSeen": "2025", "confidence": 0.9, "source": "fallback"},
+      {"company": "Microsoft", "frequency": "Medium", "timesAsked": 15, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Apple", "frequency": "Medium", "timesAsked": 10, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.75, "source": "fallback"},
+      {"company": "Google", "frequency": "Low", "timesAsked": 8, "periods": {"alltime": true}, "lastSeen": "2023", "confidence": 0.7, "source": "fallback"}
+    ],
+    "isEstimated": false,
+    "lastUpdated": "2025-06-01"
+  },
+  "maximum-subarray": {
+    "companies": [
+      {"company": "Amazon", "frequency": "High", "timesAsked": 35, "periods": {"6months": true, "1year": true, "alltime": true}, "lastSeen": "2025", "confidence": 0.9, "source": "fallback"},
+      {"company": "Microsoft", "frequency": "Medium", "timesAsked": 18, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Google", "frequency": "Medium", "timesAsked": 15, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "LinkedIn", "frequency": "Low", "timesAsked": 8, "periods": {"alltime": true}, "lastSeen": "2023", "confidence": 0.7, "source": "fallback"}
+    ],
+    "isEstimated": false,
+    "lastUpdated": "2025-06-01"
+  },
+  "climbing-stairs": {
+    "companies": [
+      {"company": "Amazon", "frequency": "Medium", "timesAsked": 20, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Google", "frequency": "Medium", "timesAsked": 12, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.75, "source": "fallback"},
+      {"company": "Adobe", "frequency": "Medium", "timesAsked": 10, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.7, "source": "fallback"},
+      {"company": "Microsoft", "frequency": "Low", "timesAsked": 8, "periods": {"alltime": true}, "lastSeen": "2023", "confidence": 0.7, "source": "fallback"}
+    ],
+    "isEstimated": false,
+    "lastUpdated": "2025-06-01"
+  },
+  "best-time-to-buy-and-sell-stock": {
+    "companies": [
+      {"company": "Amazon", "frequency": "High", "timesAsked": 40, "periods": {"6months": true, "1year": true, "alltime": true}, "lastSeen": "2025", "confidence": 0.9, "source": "fallback"},
+      {"company": "Meta", "frequency": "Medium", "timesAsked": 20, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.85, "source": "fallback"},
+      {"company": "Goldman Sachs", "frequency": "Medium", "timesAsked": 15, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Microsoft", "frequency": "Low", "timesAsked": 10, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.75, "source": "fallback"},
+      {"company": "Google", "frequency": "Low", "timesAsked": 8, "periods": {"alltime": true}, "lastSeen": "2023", "confidence": 0.7, "source": "fallback"}
+    ],
+    "isEstimated": false,
+    "lastUpdated": "2025-06-01"
+  },
+  "contains-duplicate": {
+    "companies": [
+      {"company": "Amazon", "frequency": "Medium", "timesAsked": 18, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Apple", "frequency": "Medium", "timesAsked": 10, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.75, "source": "fallback"},
+      {"company": "Adobe", "frequency": "Low", "timesAsked": 6, "periods": {"alltime": true}, "lastSeen": "2023", "confidence": 0.65, "source": "fallback"}
+    ],
+    "isEstimated": false,
+    "lastUpdated": "2025-06-01"
+  },
+  "product-of-array-except-self": {
+    "companies": [
+      {"company": "Amazon", "frequency": "High", "timesAsked": 30, "periods": {"6months": true, "1year": true, "alltime": true}, "lastSeen": "2025", "confidence": 0.9, "source": "fallback"},
+      {"company": "Meta", "frequency": "High", "timesAsked": 25, "periods": {"6months": true, "1year": true, "alltime": true}, "lastSeen": "2025", "confidence": 0.9, "source": "fallback"},
+      {"company": "Apple", "frequency": "Medium", "timesAsked": 12, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.75, "source": "fallback"},
+      {"company": "Microsoft", "frequency": "Medium", "timesAsked": 10, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.75, "source": "fallback"}
+    ],
+    "isEstimated": false,
+    "lastUpdated": "2025-06-01"
+  },
+  "merge-intervals": {
+    "companies": [
+      {"company": "Google", "frequency": "High", "timesAsked": 35, "periods": {"6months": true, "1year": true, "alltime": true}, "lastSeen": "2025", "confidence": 0.9, "source": "fallback"},
+      {"company": "Meta", "frequency": "High", "timesAsked": 30, "periods": {"6months": true, "1year": true, "alltime": true}, "lastSeen": "2025", "confidence": 0.9, "source": "fallback"},
+      {"company": "Amazon", "frequency": "Medium", "timesAsked": 20, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.85, "source": "fallback"},
+      {"company": "Bloomberg", "frequency": "Medium", "timesAsked": 15, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Microsoft", "frequency": "Low", "timesAsked": 8, "periods": {"alltime": true}, "lastSeen": "2023", "confidence": 0.7, "source": "fallback"}
+    ],
+    "isEstimated": false,
+    "lastUpdated": "2025-06-01"
+  },
+  "coin-change": {
+    "companies": [
+      {"company": "Amazon", "frequency": "High", "timesAsked": 32, "periods": {"6months": true, "1year": true, "alltime": true}, "lastSeen": "2025", "confidence": 0.9, "source": "fallback"},
+      {"company": "Google", "frequency": "Medium", "timesAsked": 18, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.85, "source": "fallback"},
+      {"company": "Microsoft", "frequency": "Medium", "timesAsked": 12, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Goldman Sachs", "frequency": "Low", "timesAsked": 8, "periods": {"alltime": true}, "lastSeen": "2023", "confidence": 0.7, "source": "fallback"}
+    ],
+    "isEstimated": false,
+    "lastUpdated": "2025-06-01"
+  },
+  "number-of-islands": {
+    "companies": [
+      {"company": "Amazon", "frequency": "High", "timesAsked": 45, "periods": {"6months": true, "1year": true, "alltime": true}, "lastSeen": "2025", "confidence": 0.95, "source": "fallback"},
+      {"company": "Google", "frequency": "High", "timesAsked": 28, "periods": {"6months": true, "1year": true, "alltime": true}, "lastSeen": "2025", "confidence": 0.9, "source": "fallback"},
+      {"company": "Meta", "frequency": "Medium", "timesAsked": 20, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.85, "source": "fallback"},
+      {"company": "Microsoft", "frequency": "Medium", "timesAsked": 15, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Bloomberg", "frequency": "Low", "timesAsked": 8, "periods": {"alltime": true}, "lastSeen": "2023", "confidence": 0.7, "source": "fallback"}
+    ],
+    "isEstimated": false,
+    "lastUpdated": "2025-06-01"
+  },
+  "lru-cache": {
+    "companies": [
+      {"company": "Amazon", "frequency": "High", "timesAsked": 38, "periods": {"6months": true, "1year": true, "alltime": true}, "lastSeen": "2025", "confidence": 0.95, "source": "fallback"},
+      {"company": "Meta", "frequency": "High", "timesAsked": 30, "periods": {"6months": true, "1year": true, "alltime": true}, "lastSeen": "2025", "confidence": 0.9, "source": "fallback"},
+      {"company": "Google", "frequency": "Medium", "timesAsked": 20, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.85, "source": "fallback"},
+      {"company": "Microsoft", "frequency": "Medium", "timesAsked": 15, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Bloomberg", "frequency": "Medium", "timesAsked": 12, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"}
+    ],
+    "isEstimated": false,
+    "lastUpdated": "2025-06-01"
+  },
+  "binary-tree-level-order-traversal": {
+    "companies": [
+      {"company": "Amazon", "frequency": "High", "timesAsked": 30, "periods": {"6months": true, "1year": true, "alltime": true}, "lastSeen": "2025", "confidence": 0.9, "source": "fallback"},
+      {"company": "Meta", "frequency": "Medium", "timesAsked": 15, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Microsoft", "frequency": "Medium", "timesAsked": 12, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "LinkedIn", "frequency": "Low", "timesAsked": 6, "periods": {"alltime": true}, "lastSeen": "2023", "confidence": 0.65, "source": "fallback"}
+    ],
+    "isEstimated": false,
+    "lastUpdated": "2025-06-01"
+  },
+  "course-schedule": {
+    "companies": [
+      {"company": "Amazon", "frequency": "Medium", "timesAsked": 20, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.85, "source": "fallback"},
+      {"company": "Google", "frequency": "Medium", "timesAsked": 18, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.85, "source": "fallback"},
+      {"company": "Meta", "frequency": "Medium", "timesAsked": 12, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"}
+    ],
+    "isEstimated": false,
+    "lastUpdated": "2025-06-01"
+  },
+  "word-break": {
+    "companies": [
+      {"company": "Amazon", "frequency": "High", "timesAsked": 30, "periods": {"6months": true, "1year": true, "alltime": true}, "lastSeen": "2025", "confidence": 0.9, "source": "fallback"},
+      {"company": "Meta", "frequency": "Medium", "timesAsked": 18, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.85, "source": "fallback"},
+      {"company": "Google", "frequency": "Medium", "timesAsked": 15, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Bloomberg", "frequency": "Low", "timesAsked": 8, "periods": {"alltime": true}, "lastSeen": "2023", "confidence": 0.7, "source": "fallback"}
+    ],
+    "isEstimated": false,
+    "lastUpdated": "2025-06-01"
+  },
+  "trapping-rain-water": {
+    "companies": [
+      {"company": "Google", "frequency": "High", "timesAsked": 40, "periods": {"6months": true, "1year": true, "alltime": true}, "lastSeen": "2025", "confidence": 0.95, "source": "fallback"},
+      {"company": "Amazon", "frequency": "High", "timesAsked": 35, "periods": {"6months": true, "1year": true, "alltime": true}, "lastSeen": "2025", "confidence": 0.9, "source": "fallback"},
+      {"company": "Meta", "frequency": "Medium", "timesAsked": 20, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.85, "source": "fallback"},
+      {"company": "Bloomberg", "frequency": "Medium", "timesAsked": 15, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Goldman Sachs", "frequency": "Low", "timesAsked": 8, "periods": {"alltime": true}, "lastSeen": "2023", "confidence": 0.7, "source": "fallback"}
+    ],
+    "isEstimated": false,
+    "lastUpdated": "2025-06-01"
+  },
+  "group-anagrams": {
+    "companies": [
+      {"company": "Amazon", "frequency": "High", "timesAsked": 28, "periods": {"6months": true, "1year": true, "alltime": true}, "lastSeen": "2025", "confidence": 0.9, "source": "fallback"},
+      {"company": "Meta", "frequency": "Medium", "timesAsked": 15, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Google", "frequency": "Medium", "timesAsked": 12, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Bloomberg", "frequency": "Low", "timesAsked": 8, "periods": {"alltime": true}, "lastSeen": "2023", "confidence": 0.7, "source": "fallback"}
+    ],
+    "isEstimated": false,
+    "lastUpdated": "2025-06-01"
+  },
+  "rotate-image": {
+    "companies": [
+      {"company": "Amazon", "frequency": "Medium", "timesAsked": 18, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Microsoft", "frequency": "Medium", "timesAsked": 12, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.75, "source": "fallback"},
+      {"company": "Apple", "frequency": "Low", "timesAsked": 6, "periods": {"alltime": true}, "lastSeen": "2023", "confidence": 0.65, "source": "fallback"}
+    ],
+    "isEstimated": false,
+    "lastUpdated": "2025-06-01"
+  },
+  "spiral-matrix": {
+    "companies": [
+      {"company": "Amazon", "frequency": "Medium", "timesAsked": 20, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Microsoft", "frequency": "Medium", "timesAsked": 15, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Apple", "frequency": "Low", "timesAsked": 8, "periods": {"alltime": true}, "lastSeen": "2023", "confidence": 0.7, "source": "fallback"}
+    ],
+    "isEstimated": false,
+    "lastUpdated": "2025-06-01"
+  },
+  "search-in-rotated-sorted-array": {
+    "companies": [
+      {"company": "Amazon", "frequency": "High", "timesAsked": 30, "periods": {"6months": true, "1year": true, "alltime": true}, "lastSeen": "2025", "confidence": 0.9, "source": "fallback"},
+      {"company": "Meta", "frequency": "Medium", "timesAsked": 20, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.85, "source": "fallback"},
+      {"company": "Microsoft", "frequency": "Medium", "timesAsked": 12, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Bloomberg", "frequency": "Low", "timesAsked": 8, "periods": {"alltime": true}, "lastSeen": "2023", "confidence": 0.7, "source": "fallback"}
+    ],
+    "isEstimated": false,
+    "lastUpdated": "2025-06-01"
+  },
+  "3sum": {
+    "companies": [
+      {"company": "Amazon", "frequency": "High", "timesAsked": 35, "periods": {"6months": true, "1year": true, "alltime": true}, "lastSeen": "2025", "confidence": 0.9, "source": "fallback"},
+      {"company": "Meta", "frequency": "High", "timesAsked": 28, "periods": {"6months": true, "1year": true, "alltime": true}, "lastSeen": "2025", "confidence": 0.9, "source": "fallback"},
+      {"company": "Google", "frequency": "Medium", "timesAsked": 18, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.85, "source": "fallback"},
+      {"company": "Microsoft", "frequency": "Medium", "timesAsked": 12, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Bloomberg", "frequency": "Low", "timesAsked": 8, "periods": {"alltime": true}, "lastSeen": "2023", "confidence": 0.7, "source": "fallback"}
+    ],
+    "isEstimated": false,
+    "lastUpdated": "2025-06-01"
+  },
+  "container-with-most-water": {
+    "companies": [
+      {"company": "Amazon", "frequency": "Medium", "timesAsked": 20, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.85, "source": "fallback"},
+      {"company": "Google", "frequency": "Medium", "timesAsked": 15, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Meta", "frequency": "Medium", "timesAsked": 12, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"}
+    ],
+    "isEstimated": false,
+    "lastUpdated": "2025-06-01"
+  },
+  "letter-combinations-of-a-phone-number": {
+    "companies": [
+      {"company": "Amazon", "frequency": "Medium", "timesAsked": 20, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.85, "source": "fallback"},
+      {"company": "Meta", "frequency": "Medium", "timesAsked": 15, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Google", "frequency": "Low", "timesAsked": 10, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.75, "source": "fallback"}
+    ],
+    "isEstimated": false,
+    "lastUpdated": "2025-06-01"
+  },
+  "min-stack": {
+    "companies": [
+      {"company": "Amazon", "frequency": "Medium", "timesAsked": 22, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Bloomberg", "frequency": "Medium", "timesAsked": 18, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Microsoft", "frequency": "Low", "timesAsked": 10, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.75, "source": "fallback"},
+      {"company": "Google", "frequency": "Low", "timesAsked": 8, "periods": {"alltime": true}, "lastSeen": "2023", "confidence": 0.7, "source": "fallback"}
+    ],
+    "isEstimated": false,
+    "lastUpdated": "2025-06-01"
+  },
+  "serialize-and-deserialize-binary-tree": {
+    "companies": [
+      {"company": "Meta", "frequency": "High", "timesAsked": 28, "periods": {"6months": true, "1year": true, "alltime": true}, "lastSeen": "2025", "confidence": 0.9, "source": "fallback"},
+      {"company": "Amazon", "frequency": "Medium", "timesAsked": 18, "periods": {"1year": true, "alltime": true}, "lastSeen": "2024", "confidence": 0.85, "source": "fallback"},
+      {"company": "Google", "frequency": "Medium", "timesAsked": 15, "periods": {"alltime": true}, "lastSeen": "2024", "confidence": 0.8, "source": "fallback"},
+      {"company": "Microsoft", "frequency": "Low", "timesAsked": 8, "periods": {"alltime": true}, "lastSeen": "2023", "confidence": 0.7, "source": "fallback"}
+    ],
+    "isEstimated": false,
+    "lastUpdated": "2025-06-01"
+  }
+}

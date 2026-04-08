@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LeetTracker</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="popup-container">
+    <!-- Header -->
+    <div class="popup-header">
+      <div class="popup-logo">
+        <img class="popup-logo-icon" src="icons/leetTracker_Logo.png" alt="LeetTracker">
+        <div class="popup-logo-text">
+          <span class="popup-title">LeetTracker</span>
+          <span class="popup-subtitle">LeetCode Frequency Data</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Status Section -->
+    <div class="popup-section">
+      <div class="popup-status">
+        <div class="popup-status-item">
+          <span class="popup-status-label">Status</span>
+          <span class="popup-status-value" id="status-indicator">
+            <span class="status-dot active"></span> Active
+          </span>
+        </div>
+        <div class="popup-status-item">
+          <span class="popup-status-label">Cached Problems</span>
+          <span class="popup-status-value" id="cached-count">Loading...</span>
+        </div>
+        <div class="popup-status-item">
+          <span class="popup-status-label">Last Updated</span>
+          <span class="popup-status-value" id="last-updated">Never</span>
+        </div>
+        <div class="popup-status-item">
+          <span class="popup-status-label">Cache Status</span>
+          <span class="popup-status-value" id="cache-status">Checking...</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Toggle Section -->
+    <div class="popup-section">
+      <div class="popup-toggle-row">
+        <div class="popup-toggle-info">
+          <span class="popup-toggle-label">Extension Enabled</span>
+          <span class="popup-toggle-desc">Show company data on LeetCode</span>
+        </div>
+        <label class="toggle-switch">
+          <input type="checkbox" id="toggle-enabled" checked>
+          <span class="toggle-slider"></span>
+        </label>
+      </div>
+
+      <div class="popup-toggle-row">
+        <div class="popup-toggle-info">
+          <span class="popup-toggle-label">Show Estimates</span>
+          <span class="popup-toggle-desc">Display heuristic data when unavailable</span>
+        </div>
+        <label class="toggle-switch">
+          <input type="checkbox" id="toggle-estimated" checked>
+          <span class="toggle-slider"></span>
+        </label>
+      </div>
+
+      <div class="popup-toggle-row">
+        <div class="popup-toggle-info">
+          <span class="popup-toggle-label">Auto Refresh</span>
+          <span class="popup-toggle-desc">Update data every 24 hours</span>
+        </div>
+        <label class="toggle-switch">
+          <input type="checkbox" id="toggle-refresh" checked>
+          <span class="toggle-slider"></span>
+        </label>
+      </div>
+    </div>
+
+    <!-- Actions Section -->
+    <div class="popup-section">
+      <button class="popup-btn popup-btn-primary" id="btn-refresh">
+        <span class="popup-btn-icon">↻</span>
+        Refresh Data Now
+      </button>
+      <button class="popup-btn popup-btn-secondary" id="btn-clear-cache">
+        <span class="popup-btn-icon">🗑</span>
+        Clear Cache
+      </button>
+    </div>
+
+    <!-- Data Sources -->
+    <div class="popup-section popup-sources">
+      <div class="popup-section-title">Data Sources</div>
+      <div class="popup-source-item">
+        <span class="source-icon">🎯</span>
+        <div class="source-info">
+          <span class="source-name">LeetCode GraphQL</span>
+          <span class="source-desc">Primary — real-time company tags</span>
+          <span class="source-count" id="count-leetcode">0 problems tracked</span>
+        </div>
+        <span class="source-badge primary">Primary</span>
+      </div>
+      <div class="popup-source-item">
+        <span class="source-icon">📦</span>
+        <div class="source-info">
+          <span class="source-name">GitHub Datasets</span>
+          <span class="source-desc">PrasanthPradeep/leetcode-companywise-questions repo</span>
+          <span class="source-count" id="count-github">0 problems tracked</span>
+        </div>
+        <span class="source-badge secondary">Secondary</span>
+      </div>
+      <div class="popup-source-item">
+        <span class="source-icon">📂</span>
+        <div class="source-info">
+          <span class="source-name">User Local Baseline</span>
+          <span class="source-desc">600+ companies from local @csv folder</span>
+          <span class="source-count" id="count-local">0 problems tracked</span>
+        </div>
+        <span class="source-badge local">Local</span>
+      </div>
+      <div class="popup-source-item">
+        <span class="source-icon">📋</span>
+        <div class="source-info">
+          <span class="source-name">Bundled Fallback</span>
+          <span class="source-desc">300+ popular problems, offline use</span>
+          <span class="source-count" id="count-fallback">0 problems tracked</span>
+        </div>
+        <span class="source-badge fallback">Fallback</span>
+      </div>
+      <div class="popup-source-item">
+        <span class="source-icon">🧠</span>
+        <div class="source-info">
+          <span class="source-name">Heuristic Engine</span>
+          <span class="source-desc">AI-based estimation from tags</span>
+        </div>
+        <span class="source-badge heuristic">Estimate</span>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <div class="popup-footer">
+      <span>v1.1.0</span>
+      <span>·</span>
+      <a href="https://github.com/PrasanthPradeep/leetcode-companywise-questions" target="_blank" rel="noopener">GitHub</a>
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
